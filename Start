@@ -1,8 +1,8 @@
-Today i finished watching Java Tutorial on youtube. Here is link to that tutorial(Its on Serbian language).
+/*Today i finished watching Java Tutorial on youtube. Here is link to that tutorial(Its on Serbian language).
 https://www.youtube.com/playlist?list=PLDEPU7oft31kXhFhlZ1cFzqRY28lOwVjR
 I will learn many more things about Java and this is just a start.
+My Final code from this tutorial:*/
 
-My Final code from this tutorial:
 import java.io.File;
 import java.io.FileWriter;
 import java.util.Scanner;
